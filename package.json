@@ -1,6 +1,6 @@
 {
   "name": "graphicsmagick-static",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "graphicsmagick static binaries linking for Windows, Linux ",
   "main": "index.js",
   "scripts": {
