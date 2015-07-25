@@ -14,7 +14,7 @@ $ npm install graphicsmagick-static
 
 ## Example Usage
 
-Returns the path of a statically linked ffmpeg binary on the local filesystem.
+Returns the path of a statically linked graphicsmagick on the local filesystem.
 
 ``` js
 var graphicsmagick = require('grpahicsmagick-static');
