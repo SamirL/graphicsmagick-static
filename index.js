@@ -18,7 +18,7 @@ var graphicsPath = path.join(
   'bin',
   platform,
   arch,
-  platform === 'win32' ? 'GraphicsMagick' : 'GraphicsMagick'
+  platform === 'GraphicsMagick'
 )
 
 exports.path = graphicsPath;
