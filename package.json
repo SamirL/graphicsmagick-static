@@ -1,0 +1,15 @@
+{
+  "name": "graphicsmagick-static",
+  "version": "0.1.0",
+  "description": "graphicsmagick static binaries linking for Windows, Linux ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "graphicsmagick",
+    "binaries"
+  ],
+  "author": "SamirL",
+  "license": "ISC"
+}
